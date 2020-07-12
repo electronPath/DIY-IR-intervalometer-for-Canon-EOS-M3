@@ -14,5 +14,7 @@ https://randomnerdtutorials.com/guide-for-oled-display-with-arduino/
 
 
 This project partially inspired by Attiny85 + SSD1306 Canon DSLR IR timelapse remote
+
 https://www.imaging-resource.com/news/2016/10/24/for-under-25-you-can-make-your-own-infrared-timelapse-remote-for-canon
+
 https://www.youtube.com/watch?v=ne5mtMA6v-w
