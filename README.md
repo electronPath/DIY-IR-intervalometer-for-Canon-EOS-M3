@@ -1,6 +1,6 @@
 # DIY-IR-intervalometer-for-Canon-EOS-M3
 
-This device also should work with other Canon cameras that have an IR receiver.
+This device should work with Canon cameras that have an IR receiver.
 Or you can replace LED with a transistor and adapt the device and program to work with cameras that accept a stereo (3 pole) 2.5 mm jack plug.
 Also, you can adapt the program to work with Nikon cameras too! Here is a link to a tutorial from adafruit. (I don't have a Nikon camera to test it ...)
 https://learn.adafruit.com/ir-sensor/making-an-intervalometer
