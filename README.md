@@ -6,6 +6,7 @@ Also, you can adapt the program to work with Nikon cameras too! Here is a link t
 https://learn.adafruit.com/ir-sensor/making-an-intervalometer
 
 Useful links:
+
 https://publiclab.org/notes/cfastie/02-28-2016/auto-eos-m
 
 https://randomnerdtutorials.com/guide-for-oled-display-with-arduino/
