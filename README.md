@@ -1,6 +1,6 @@
 # DIY-IR-intervalometer-for-Canon-EOS-M3
 
-https://www.youtube.com/watch?v=52M5GOIqqW0
+![alt text](https://www.youtube.com/watch?v=52M5GOIqqW0)
 
 ![alt text](https://github.com/electronPath/DIY-IR-intervalometer-for-Canon-EOS-M3/blob/master/intervalometer.jpeg)
 This device send an IR signal for a Canon camera and can be used as a remote and intervalometer. Should work with Canon cameras that have an IR receiver.
